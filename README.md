@@ -1,5 +1,5 @@
 # music_basic_theory
-## Determining what notes are worth
+## Section 1: Determining what notes are worth
 - The *rhythm* is the pattern of regular or irregular pulses.
 - A *beat* is a pulsation that divides time into equal lengths. A ticking clock is a good example. Every minute, the second hand ticks 60 times, and each one of those ticks is a beat.
 - If you spped up or slow down the second hand, you're changing the *tempo* of the beat.
@@ -21,13 +21,13 @@
 - *augmentation dot* indicates that the note's value is increased by one half of its original value.
 - Another way to increase the value of a note is by *tying* it to another note. Thies connect notes of the same pitch together to create one sustained note instead of two separate ones.
 
-## Giving It a Rest
+## Section 2: Giving It a Rest
 - Silent "notes" are called *rests*.
 ### Getting to know the Rests
 - Think of rests as the spaces between words in a written sentence.
 - Whole (semibreve), half (minim), quarter (crotchet), eighth (quaver) rests
 
-## Introducing Time Signatures
+## Section 3: Introducing Time Signatures
 ### Decoding Time Signatures and Measures
 - The pair of numbers is called the *time signature* and it tells you two things:
   1. **The number of beats in each measure**: the top number in the time signuatre tells you the number of beats to be counted off in each measure. If the top number is three, each measure contains three beats.
@@ -81,7 +81,7 @@
   * **Phrasing, articulation, and dynamics**: While the right hand maintains the beat, the left hand works independently to indicate other things about the music, such as the phrasing, dynamics, and articulation. In order to bring an orchestra to a *crescendo*, the conductor raises his or her left hand slowly or quickly in order to demonstrate how fast the crescendo must build, or, for a *diminuendo*, lower that hand to quiet the orchestra. A left bouncing in the air indicates *staccato* (short, clipped notes) is needed, while a smooth movement is used to indicate *legato* (smooth) passages. In a way, it's almost like the conductor is drawing sound waves in the air to demonstrate what he or she wants the orchestra to do. Conductor rely on body language and facial expressions to convey their directions as well (examples in Book P49).
   * **Cueing**: When a conductor suddenly points to a player or instrument section-generally, a section or performer that's been silent while the rest of the orchestra's been performing- that's called an *entrance cue*, and that player or section is to being playing immediately.
  
-## Playing with Beat
+## Section 4: Playing with Beat
 ### Creating Stress Patterns and Syncopation
 - The underlying rhythimic pulses of music is called the *beat*. It determines how people dance to music or even how they feel when they hear it. The beat influences whether people feel excited, agitated, mellow, or relaxed by music.
 - When you're writing a piece of music down on paper, the way you group your notes together in a *measure* reflects the kind of beat the music will have.
@@ -95,7 +95,7 @@
 - **Triplets**: In 4/4 time, if you want to play an even number of notes in your sequence, you can use a couple a of eighth notes, or four sixteenth notes, or eight thirty-second notes. But what if you want to play an odd number of notes, and you absolutely want that odd number of notes to equal one beat? The answer is to play a *triplet*, which is what you get when you have a note that's usually divisible by two equal parts divided into three equal parts.
 - **Duplets**: Duplets work like triplets, except in reverse. Composers use duplets when they want to put two notes in a space where they should put three.
 
-## Music Notes (and Where to Find Them)
+## Section 5: Music Notes (and Where to Find Them)
 ### Meeting the Staff, Cleffs, and Notes
 - Notes and rests in music are written on what musicians call a *musical staff* (or staves, if you're talking about two). A staff is made of five parallel horizontal lines, containing four spaces between them.
 - The particular musical notes that are meant by each line and psace depend on which *clef* is written at the beginning of the staff. You may run across any of the following clefs (though the first two are the most common):
@@ -120,7 +120,7 @@
 - Western musical notation recognizes only the division of pitch into half steps. In contrast, many Eastern instruments, particularly sitars and fretless stringed isntruments, use *quarter tones*. Quarter tones are pitches located halfway between each half step.
 - **Accidentals** are notations used to raise or lower a natural note pitch on the staff by a half step. (Sharps, Flats, Double sharps, Double flats, Naturals)
 
-## Mastering the Major and Minor Scales
+## Section 6: Mastering the Major and Minor Scales
 - To put it simply, a **scale**(音阶) is any group of consecutive notes that provides the material for part or all of a piece of music.
 ### Following Major-Scale Patterns
 - Major scales follow the interval pattern of **WWHWWWH**, which means **W**hole step **W**hole step **H**alf step **W**hole step **W**hole step **W**hole step **H**alf step.
@@ -145,7 +145,7 @@
 - **Harmonic minor scale** is a variation of the natural minor scale. It occurs when the 7th note of the natural minor scale is **raised** by a half step. The step is **not** raised in the key signature; instead, it's raised throught the use of accidentals.
 - **Melodic minor scale** is derived from the natural minor scale. In the melodic minor scale, the 6th and 7th notes of the natural minor scale are each **raised** by one half step when going up the scale. However, keep in mind that they return to the natural minor when going down the scale.
 
-## Key Signatures and the Circle of Fifths
+## Section 7: Key Signatures and the Circle of Fifths
 - The key signature tells you in what key the song is written.
 ### Understanding the Circle Of Fifths and Recognizing Major Key Signatures
 - In the sixth century B.C., the Greek scholar and philosopher Pythagoras divided a circle into 12 equal sections, like a clock. The result of his experimentation eventually became known as the Circle of Fifths, which is still used today.
@@ -160,7 +160,7 @@
 - The relative minor and its major key have the same key signautre.The only difference is that the relative minor's scale starts on a different tonic, or first note. The *tonic*, or starting point, of a relative minor is a minor third-or three half steps-lower than its relative major key.
 - On sheet music, the relative minor is the note one full line or space below the major key note.
 
-## Intervals: The Distance between Pitches
+## Section 8: Intervals: The Distance between Pitches
 - The distance between two musical pitches is called an *interval* (音程). 
 - Scales and chords are both built from intervals. Music gets its richeness from intervals.
 ### Breaking Down Harmonic and Melodic Intervals
@@ -233,7 +233,7 @@
 - One of the great thigns about mastering all the musical scales is that it makes it so much easier to play with other musicians. Most session and studio musicians use a system called the Nashville Number System, which is designed both to make playing with other musicians easier as well as to make transposing music to a new key almost effortless.
 - In the NNS, all the chords in a key signature are reffered to in their diatonic number in a scale instead of their formal letter name. 
 
-## Chord Building
+## Section 10: Chord Building
 - A chord is simply three or more notes played together or, in the case of arpeggiated (琶音) chords, one after another. Most people don't appreciate a properly played chord until they hear the way "wrong" notes sound against each other. In most Western music, chords are constructed from *consecutive intervals of a third*-that is, each note in a chord is a third apart from the one before and/or after it.
 ### Creatubg Triads with Three Pitches
 - **Triads**(三和弦), which consist of any three pitches from the same scale, are the most common type of chord used in music. Here are the different types of triads you'll likely work with:
@@ -309,3 +309,38 @@
 - Ninth chords:stack five thirds on top of one another.
 - Eleventh chord: stack of six thirds.
 - Thirteenth chords: stack of seven thirds.
+
+## Section 11: Chord Progressions
+### Reviewing Diatonic Chords
+- In Western music, the key signature tells you which notes can be used in that piece. Therefore, if you have a song written in C major, the only seven notes that can appear in the song are C,D,E,F,G,A, and B (with the odd sharp or flat thrown in as rare exceptions allowed by accidentals).
+- Chords built on the seven notes of a major key signature are called *diatonic chords*. Chords that are built on notes *outside* the key signature are called *chromatic chords*.
+- Minor keys get a little trickier because nine notes can potentially fit under a single minor key signature when you consider the melodic and harmonic minor scales. The easiest way to think about chords built on minor keys is to recognize that each key signature has just one minor scale. One facet of minor keys is the flexible nature of the 6th and 7th degrees of the scale.
+### Identifying and Naming Chord Progression
+- Triads strung together to form a succession of chords are called *progressions*. Chord progressions make up pretty much all of Western harmonic music.
+- When breaking down a piece of music based on chord progressions, roman numerals represent the different scale degrees. Capitalized roman numerals represent the chords with a major third, and lowercased roman numerals represent the minor chords. Other special characters indicate whether the chord is diminished (o) or augmneted (+).
+- Because the name of a chord comes from its root note, it's only natural that the root of each chord located within a scale would also carry the scale degree with its name. In other words, a chord's name tells you what the chord is, based on the root note, whereas a chord's number tells you what the chord does, based on key.
+
+### Common Major Key Chord Progressions
+| Chord | Leads To |
+|-------|-----------|
+| I | Can appear anywhere and lead anywhere |
+| ii | i,V, or vii^o chords |
+| iii | i,IV, or vi chords |
+| IV | I,ii,V,or vii^o chords |
+| V | I or vi chords |
+| vi | I,ii,iii,IV, or V chords |
+| vii^o | I chord |
+
+- When dealing with minor keys, the construction of triads is unfortunately a lot more involved than it is with the major keys. The 6th and 7th degrees of the scale are variable, depending on whether the music uses notes from the natural minor, harmonic minor, melodic minor. So for nearly all minor triads, more possibilities for building chords exist in the 6th and 7th degrees than they do in the major scale.
+
+### Common Minor Key Chord Progressions
+|Chord | Leads To |
+| --------| -------|
+| i chords | Can appear anywhere and lead anywhere |
+| ii^o (ii) chords | i,V (v), or vii^o (VII) chords |
+| III (III+) chords | i,iv (IV), VI (#vi^o), or vii^o (VI) chords |
+| iv (IV) chords | i, V (v), or vii^o (VII) chords |
+| V (v) chords | I or VI (#vi^o) chords |
+| VI (#vi^o) chords | i,III(III+), iv (IV), V (v), or vii^o (VII) chords |
+| vii^o (VII) chords | i chord |
+
